@@ -1,0 +1,103 @@
+[
+    {
+        "name": "BSNL",
+        "lowestPrice": 1199,
+        "rating": 4,
+        "maxSpeed": "4mbps",
+        "description":"BSNL has a world class, multi-gigabit, multi-protocol, convergent IP infrastructure through National Internet Backbone, through which it is providing convergent services through the same backbone and broadband access network. The Broadband service is available on ADSL technology (on the same copper cable that is used for connecting telephone), on a countrywide basis.",
+        "contactNumber":"1800-180-1503", 
+        "email":"123@bsnl.co.in/",
+        "image":"../assets/images/BSNL.jpg",
+        "url":"https://www.bsnl.co.in/" 
+    },
+    {
+        "name": "Airtel",
+        "lowestPrice": 1000,
+        "rating": 4.5,
+        "maxSpeed": "40mbps",
+        "description":"Step into the future of unlimited broadband plans with Airtel fibernet technology. Experience the high-speed internet on our existing fibre broadband connection in Delhi across multiple devices. Airtel Xstream Fiber offers you with fibre optic internet connection transforming your daily broadband connection experience with high-speed internet. Airtel allows you to enjoy the fastest broadband connection in Delhi with the speed of up to 1 Gbps, which means once you connect broadband, you will get faster downloads and less buffering.",
+        "contactNumber":"08044444121", 
+        "email":"121@airtel.in",
+        "image":"../assets/images/AirtelLogo.jpg",
+        "url":"https://www.airtel.in/" 
+    },
+    {
+        "name": "Hathway",
+        "lowestPrice": 3000,
+        "rating": 5,
+        "maxSpeed": "50mbps",
+        "description":"Hathway Cable & Datacom Limited (Hathway) is one of the India’s leading Cable Broadband service provider. It also provides Cable Television services through its wholly owned subsidiary – Hathway Digital Private Limited, which is one of the largest Multisystem operator in India. Hathway vision is to be a single point access provider, bringing into the home and work place a converged world of information, entertainment and services.",
+        "contactNumber":"080-40161616", 
+        "email":"bangalorehelpdesk@hathway.net",
+        "image":"../assets/images/hathway.jpg",
+        "url":"https://www.hathway.com/" 
+    },
+    {
+        "name": "Reliance JIO",
+        "lowestPrice": 1099,
+        "rating": 3.5,
+        "maxSpeed": "5mbps",
+        "description":"Jio Fiber is a fibre-to-the-home internet broadband service provided by telecom operator Reliance Jio Infocomm, part of the Mukesh Ambani-controlled Reliance group. The service was first announced as Jio GigaFiber in 2018 at the Reliance Industries 41st annual general meeting. Later renamed Jio Fiber, it is scheduled for a commercial launch on September 5, 2019.",
+        "contactNumber":"1800 889 9999", 
+        "email":"care@jio.com",
+        "image":"../assets/images/Jio.jpg",
+        "url":"https://www.jio.com/" 
+    },
+    {
+        "name": "BBNL",
+        "lowestPrice": 499,
+        "rating": 3.5,
+        "maxSpeed": "10mbps",
+        "description":"Bharat Broadband Network Limited is a Special Purpose Vehicle set up under Companies Act by Government of India with an authorized capital of Rs. 1000 Cr. It has been mandated to create the National Optical Fiber Network (NOFN) in India. A total of around 2,50,000 Gram Panchayats spread over 6,600 Blocks and 641 Districts are to be covered by laying incremental fiber. The timeline for this ambitious project is two years. The project cost is estimated to be about 20,000 Cr which will be funded by the USO fund.",
+        "contactNumber":"1800 112 265", 
+        "email":"moreinfo@bbnl.co.in",
+        "image":"../assets/images/BBNL.jpg",
+        "url":"https://bbnl.co.in/" 
+    },
+    {
+        "name": "ACT Broadband",
+        "lowestPrice": 1150,
+        "rating": 4,
+        "maxSpeed": "150mbps",
+        "description":"Atria Convergence Technologies Limited., branded as ACT, is an Indian telecommunications company headquartered in Bangalore, Karnataka. ACT offers fiber to the home services under the brand name \"ACT Fibernet\" and digital television services under the \"ACT Digital\" brand. The company provides services in Tamil Nadu, Telangana, Andhra Pradesh, Karnataka, Delhi, Gujarat, Rajasthan, Lucknow and Jaipur.",
+        "contactNumber":"+91 - 9121212121", 
+        "email":"helpdesk.blr@actcorp.in",
+        "image":"../assets/images/ACT.png",
+        "url":"https://www.actcorp.in/" 
+    },
+    {
+        "name": "ACT Fibernet",
+        "lowestPrice": 1999,
+        "rating": 4.5,
+        "maxSpeed": "50mbps",
+        "description":"Atria Convergence Technologies Limited., branded as ACT, is an Indian telecommunications company headquartered in Bangalore, Karnataka. ACT offers fiber to the home services under the brand name \"ACT Fibernet\" and digital television services under the \"ACT Digital\" brand. The company provides services in Tamil Nadu, Telangana, Andhra Pradesh, Karnataka, Delhi, Gujarat, Rajasthan, Lucknow and Jaipur.",
+        "contactNumber":"+91 - 9121212121", 
+        "email":"helpdesk.blr@actcorp.in",
+        "image":"../assets/images/ACT.png",
+        "url":"https://www.actcorp.in/" 
+    },
+    {
+        "name": "YOU Broadband",
+        "lowestPrice": 2390,
+        "rating": 4.5,
+        "maxSpeed": "50mbps",
+        "description":"YOU Broadband is the leading internet service provider in Vadodara, offering high-speed internet services. We are India’s first ISO accredited broadband service provider using state of the art technology and tools to provide best broadband plans in Vadodara for homes, small to medium business entities, and big enterprises.",
+        "contactNumber":"91212 91212", 
+        "email":" customercare@youbroadband.co.in",
+        "image":"../assets/images/you_broadband.png",
+        "url":"https://youbroadband.in/" 
+    },
+    {
+        "name": "JIO Fiber",
+        "lowestPrice": 849,
+        "rating": 3,
+        "maxSpeed": "5mbps",
+        "description":"Jio Fiber is a fibre-to-the-home internet broadband service provided by telecom operator Reliance Jio Infocomm, part of the Mukesh Ambani-controlled Reliance group. The service was first announced as Jio GigaFiber in 2018 at the Reliance Industries 41st annual general meeting. Later renamed Jio Fiber, it is scheduled for a commercial launch on September 5, 2019.",
+        "contactNumber":"1800 889 9999", 
+        "email":"care@jio.com",
+        "image":"../assets/images/jio_fiber.jpg",
+        "url":"https://www.jio.com/" 
+    }
+
+
+]

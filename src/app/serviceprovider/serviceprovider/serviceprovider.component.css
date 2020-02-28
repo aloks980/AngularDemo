@@ -1,0 +1,16 @@
+.grid{
+    /* background: lightblue; */
+    /* margin-top: 200px; */
+    height:90.5vh;
+  width:100%;
+  margin-left: 0.08vh;
+    
+}
+
+.example-full-width {
+  width: 50%;
+}
+
+.list{
+  height: 75vh;
+}
