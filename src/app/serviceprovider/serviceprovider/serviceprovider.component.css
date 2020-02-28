@@ -10,7 +10,9 @@
 .example-full-width {
   width: 50%;
 }
-
+.cursor-pointer{
+  cursor: pointer;
+}
 .list{
   height: 75vh;
 }

@@ -10,7 +10,7 @@
           </mat-form-field>
         </div>
           <div class="list-group list overflow-auto">
-            <div class="list-group-item d-flex list-group-item-action list-group-item-dark  justify-content-between align-items-center text-white my-1" *ngFor="let provider of providers | filter: searchText" (click)="showDetail(provider)">
+            <div class="list-group-item cursor-pointer d-flex list-group-item-action list-group-item-dark  justify-content-between align-items-center text-dark my-1" *ngFor="let provider of providers | filter: searchText" (click)="showDetail(provider)">
               <div>
               <mat-icon >network_check</mat-icon>
               {{provider.name}}
